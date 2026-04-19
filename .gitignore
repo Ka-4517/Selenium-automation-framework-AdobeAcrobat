@@ -1,0 +1,19 @@
+# Maven
+target/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# Reports
+allure-results/
+allure-report/
+extent-report.html
+
+# Selenium profile (important)
+selenium-profile/
